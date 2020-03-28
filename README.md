@@ -1,4 +1,4 @@
-# OCR digits using MNIST
+# OCR Bengali
 
 This project solves the Kaggle competition Bengali OCR dataset, to solve the kaggle problem:
 
